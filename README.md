@@ -1,4 +1,4 @@
-Rock Paper Scissors Game in Python
+**Rock Paper Scissors Game in Python**
 
 This is a simple command-line implementation of the classic game "Rock Paper Scissors" written in Python. The game allows a user to play against the computer with the standard rules.
 
